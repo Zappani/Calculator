@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Text -->
+    <color name="TextColor">#FF000000</color>
+
+    <!-- Background -->
+    <color name="BackgroundColor">#FF004D61</color>
+
+    <!-- Screen -->
+    <color name="ScreenColor">#FFE0F7FA</color>
+
+    <!-- Button -->
+    <color name="NumberButton">#FFB2EBF2</color>
+    <color name="OperationButton">#FF00BCD4</color>
+    <color name="FunctionButton">#FF80DEEA</color>
+</resources>
+
